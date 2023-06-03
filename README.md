@@ -21,3 +21,6 @@ different types of stuff such as arrows, bows, food and more, it is kinda like a
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
 [How to update status badges](docs/how-to-update-badges.md)
+
+        
+        [![ci](https://github.com/heyravnvir/IOT1026-Assignment-3/actions/workflows/ci.yml/badge.svg)](https://github.com/heyravnvir/IOT1026-Assignment-3/actions/workflows/ci.yml)
