@@ -12,7 +12,8 @@
 </p>
 
 # IOT1026-Assignment-3
-Write a description of the project here and don't forget to update the badges.  
+This is my Assignment 3 of Object Oriented Programming Class in this activity we are making an inventory which can we used to store
+different types of stuff such as arrows, bows, food and more, it is kinda like a command line based RPG game.
 
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
